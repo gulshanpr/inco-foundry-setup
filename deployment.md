@@ -1,2 +1,0 @@
-deploying "ValentineNFT" (tx: 0xcadf322bab25846ac632bd7550881211c6a53635a553b1f9875ce98865abdcbc)...: deployed at 0x20bB8580a0D2e01e48d6C428EA78Bd0864380fDF with 1414818 gas
-NFT contract deployed at: 0x20bB8580a0D2e01e48d6C428EA78Bd0864380fDF
