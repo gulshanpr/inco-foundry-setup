@@ -1,0 +1,22 @@
+{
+  "user": {
+    "object": "user",
+    "fid": 834703,
+    "username": "gulshanpr",
+    "display_name": "Gulshan",
+    "pfp_url": "https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/3f6bd24c-f9b7-4d12-02c9-9e1982d8e200/rectcrop3",
+    "custody_address": "0x79b9a7e98358487ea209960e685d388daa4b297a",
+    "profile": { "bio": { "text": "still learning the things i started" } },
+    "follower_count": 13,
+    "following_count": 12,
+    "verifications": ["0x3255acd5090e984b8279c5da7c3e2460eb13498b"],
+    "verified_addresses": {
+      "eth_addresses": ["0x3255acd5090e984b8279c5da7c3e2460eb13498b"],
+      "sol_addresses": []
+    },
+    "verified_accounts": [{ "platform": "x", "username": "gulshanprr" }],
+    "power_badge": false
+  }
+}
+
+{"user":{"object":"user","fid":3,"username":"dwr.eth","display_name":"Dan Romero","pfp_url":"https://imagedelivery.net/BXluQx4ige9GuW0Ia56BHw/bc698287-5adc-4cc5-a503-de16963ed900/original","custody_address":"0x6b0bda3f2ffed5efc83fa8c024acff1dd45793f1","profile":{"bio":{"text":"Working on Farcaster and Warpcast. Longer thoughts at https://dwr.email"},"location":{"latitude":34.05,"longitude":-118.24,"address":{"city":"Los Angeles","state":"California","state_code":"ca","country":"United States of America","country_code":"us"}}},"follower_count":537337,"following_count":3955,"verifications":["0xd7029bdea1c17493893aafe29aad69ef892b8ff2","0x187c7b0393ebe86378128f2653d0930e33218899"],"verified_addresses":{"eth_addresses":["0xd7029bdea1c17493893aafe29aad69ef892b8ff2","0x187c7b0393ebe86378128f2653d0930e33218899"],"sol_addresses":[]},"verified_accounts":[{"platform":"x","username":"dwr"}],"power_badge":true}}
